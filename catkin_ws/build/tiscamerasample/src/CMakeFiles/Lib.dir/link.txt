@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libLib.so -o /home/james/catkin_ws/devel/lib/libLib.so CMakeFiles/Lib.dir/tiscamerasample.cpp.o  -L/home/james/catkin_ws/src/tiscamerasample/src -Wl,-rpath,/home/james/catkin_ws/src/tiscamerasample/src -lgstreamer -laravis -lstdc++ -lros -lgstreamer -laravis -lstdc++ -lros 
