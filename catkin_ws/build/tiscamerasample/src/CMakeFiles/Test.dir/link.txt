@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/Test.dir/tiscamerasample.cpp.o  -o /home/james/catkin_ws/devel/lib/tiscamerasample/Test  -L/home/james/catkin_ws/src/tiscamerasample/src 

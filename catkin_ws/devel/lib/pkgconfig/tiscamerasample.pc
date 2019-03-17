@@ -1,8 +1,0 @@
-prefix=/home/james/catkin_ws/devel
-
-Name: tiscamerasample
-Description: Description of tiscamerasample
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/james/catkin_ws/devel/lib -ltiscamera
-Requires: other_catkin_pkg message_runtime
